@@ -1,0 +1,26 @@
+nav{
+    background: brown;
+    box-shadow: 2px 2px 5px grey;
+}
+nav h3{
+    color: aliceblue;
+}
+.navbar-nav{
+    margin-left: 200px;
+}
+nav ul li{
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 0 10px;
+} 
+nav ul li a:hover{
+    color:black
+}
+.btn-primary{
+    background-color: beige;
+    color: brown;
+    border: none;
+}
